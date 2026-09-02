@@ -1,0 +1,8 @@
+streamlit>=1.40
+requests>=2.32
+pandas>=2.2
+beautifulsoup4>=4.12
+lxml>=5.2
+python-dateutil>=2.9
+# Optional, only needed if you use the Anthropic provider:
+anthropic>=1.0
